@@ -1,0 +1,11 @@
+E:\CityHoops1\CityHoops1\bin\Debug\CityHoops1.exe.config
+E:\CityHoops1\CityHoops1\bin\Debug\CityHoops1.exe
+E:\CityHoops1\CityHoops1\bin\Debug\CityHoops1.pdb
+E:\CityHoops1\CityHoops1\bin\Debug\CityHoops1.xml
+E:\CityHoops1\CityHoops1\obj\Debug\CityHoops1.vbprojResolveAssemblyReference.cache
+E:\CityHoops1\CityHoops1\obj\Debug\CityHoops1.frmCityHoops1.resources
+E:\CityHoops1\CityHoops1\obj\Debug\CityHoops1.Resources.resources
+E:\CityHoops1\CityHoops1\obj\Debug\CityHoops1.vbproj.GenerateResource.Cache
+E:\CityHoops1\CityHoops1\obj\Debug\CityHoops1.exe
+E:\CityHoops1\CityHoops1\obj\Debug\CityHoops1.xml
+E:\CityHoops1\CityHoops1\obj\Debug\CityHoops1.pdb
